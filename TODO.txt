@@ -1,0 +1,4 @@
+- Create my firet repo
+add a file to the repo
+check out the git history 
+Rest of the excerise 
